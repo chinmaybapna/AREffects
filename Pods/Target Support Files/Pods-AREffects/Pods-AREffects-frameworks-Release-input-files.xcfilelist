@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-AREffects/Pods-AREffects-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ARVideoKit/ARVideoKit.framework
+${BUILT_PRODUCTS_DIR}/SDRecordButton/SDRecordButton.framework

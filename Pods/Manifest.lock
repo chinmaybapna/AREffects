@@ -1,0 +1,20 @@
+PODS:
+  - ARVideoKit (1.51)
+  - SDRecordButton (1.0.3)
+
+DEPENDENCIES:
+  - ARVideoKit
+  - SDRecordButton
+
+SPEC REPOS:
+  trunk:
+    - ARVideoKit
+    - SDRecordButton
+
+SPEC CHECKSUMS:
+  ARVideoKit: d575d98274aab060748514aa32ac964c24c1923f
+  SDRecordButton: 2533ae9e0e731c1540fa50b6fc43cdc3f15d20f4
+
+PODFILE CHECKSUM: 74ac58905ab2b7eeb9dda97a726f639381637d6b
+
+COCOAPODS: 1.9.1
